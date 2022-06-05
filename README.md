@@ -1,6 +1,6 @@
 # React ToDo App
 
-[image](public/images/React%20App.gif)
+[image](./public/images/React%20App.gif)
 
 
 [www.patika.dev](Patika.Dev)
